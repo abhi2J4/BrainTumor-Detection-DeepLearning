@@ -1,4 +1,4 @@
-# Brain Tumor MRI Classification Using Hybrid Stacking Ensemble
+# BrainTumor-Detection using DeepLearning
 
 ## Overview
 
